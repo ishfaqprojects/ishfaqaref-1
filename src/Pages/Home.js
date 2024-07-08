@@ -86,7 +86,7 @@ function Home() {
         </h6>
       </div>
       <div className="mt-5 md:mt-0 border-rounded ">
-        <img ref={myimageref} className="w-1/2 md:ml-auto rounded rounded-full" src={img} alt="profile" />
+        <img ref={myimageref} className="w-100 md:ml-auto rounded rounded-full" src={img} alt="profile" />
       </div>
     </main>
   );

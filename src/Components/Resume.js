@@ -1,5 +1,5 @@
 import React from 'react';
-import cv from "../assets/Ishfaq-Reactjs.pdf"
+import cv from "../assets/MuhammadIshfaq-MERN.pdf"
 import download from "../assets/download-svgrepo-com.svg"
 
 const DownloadPDFButton = () => {
